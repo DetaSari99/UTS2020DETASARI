@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64119071595",
+    "firebase_url": "https://uts-detasari.firebaseio.com",
+    "project_id": "uts-detasari",
+    "storage_bucket": "uts-detasari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64119071595:android:236a5549e032a4cae5a22e",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.uts_amub_ti7a_1711500091_detasari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64119071595-epgr9okq3lqlm23altatj731laolutnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.id.atmaluhur.uts_amub_ti7a_1711500091_detasari",
+            "certificate_hash": "4d912d7389b8b638f30dcf86efd48d0e6b696089"
+          }
+        },
+        {
+          "client_id": "64119071595-a6g5kglef5qk7g7msukad63jatjrb7s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgNcrPZA33NOwB7--XKEMZ21DNfIkBWu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64119071595-a6g5kglef5qk7g7msukad63jatjrb7s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
